@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    color: #DEEBF8;
+    padding: 15px 25px;
+}
+
+nav img {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+
+nav h2 {
+    margin-right: auto;
+    color: #61DAFB;
+    font-weight: 700;
+}
+
+nav h4 {
+    font-weight: 600;
+}
